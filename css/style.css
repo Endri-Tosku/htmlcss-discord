@@ -94,7 +94,7 @@ h1 {
 
 .testo {
     width: 35%;
-} 
+}
 
 .grey {
     background-color: lightgray;
@@ -107,6 +107,28 @@ h1 {
     flex-direction: row-reverse;
 }
 
+.star {
+    background-image: url(../img/stars.svg);
+    background-size: cover;
+}
+
+.container-star {
+    display: flex;
+    justify-content: center;
+}
+
+.container-scarica {
+    display: flex;
+    justify-content: center;
+}
+
+.bottone-scarica {
+    background-color: #5865F2;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    margin: 10px 0 60px 0;
+}
 
 
 
