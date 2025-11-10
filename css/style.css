@@ -40,8 +40,46 @@ ol {
     border-radius: 15px;
 }
 
+.hero-section {
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
+    height: 525px;
+}
 
+.hero-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 100px 0 0 0;
+}
 
+h1 {
+    padding: 70px 0 30px 0;
+    font-size: xxx-large;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-wite {
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 15px 7px;
+
+}
+
+.button-black {
+    background-color: black;
+    color: white;
+    padding: 11px;
+    border-radius: 20px;
+    margin: 15px 7px;
+}
 
 
 
@@ -106,7 +144,7 @@ ol {
 
 
 
-.hero-section {
+/* .hero-section {
     background-color: #0000aa;
     display: flex;
     justify-content: center;
@@ -118,8 +156,8 @@ ol {
     height: 200px;
     background-color: #e677f6;
     align-items: center;
-}
-
+} 
+ */
 .container-wite {
     display: flex;
     justify-content: center;
