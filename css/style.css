@@ -86,8 +86,6 @@ h1 {
     display: flex;
 }
 
-
-
 .immagine {
     width: 65%;
 }
@@ -131,6 +129,55 @@ h1 {
 }
 
 
+.bandiera {
+    width: 2%;
+    height: auto;
+}
+
+.content-footer {
+    padding-top: 50px;
+}
+
+.color-blue {
+    color: #1e90ff;
+}
+
+.bandiera {
+    width: 2%;
+    height: auto;
+}
+
+.liste-footer {
+    color: white;
+    padding-top: 15px;
+}
+
+.italia {
+    background-color: black;
+    border: none;
+}
+
+.section-footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.finale {
+    display: flex;
+}
+
+.ultima-sezione {
+    width: 30%;
+}
+
+nav {
+    width: 70%;
+}
+
+.li-bassa {
+    display: flex;
+    flex-direction: column;
+} 
 
 
 
@@ -147,9 +194,7 @@ h1 {
 
 
 
-
-
-/* debug */
+/* debug  da togliere*/
 
 .spazio-box {
     display: flex;
@@ -302,3 +347,34 @@ footer {
     background-color: #ffb6c1;
     padding: 5px 5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
